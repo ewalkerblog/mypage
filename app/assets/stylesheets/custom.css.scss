@@ -8,9 +8,12 @@ html {
 
 body {
   background-image: url('/assets/Erin_Walker.jpg');
+  background-position:center; 
   background-repeat:no-repeat;
+  height: 100%;
   width: 100%;
   position: absolute;
+  background-attachment:fixed;
   top: 0;
   left: 0;
   
@@ -28,7 +31,7 @@ body {
 .t2 {
 	font-size: 22px;
 	text-align: center;
-	color: #2a4b3b;
+	color: #3574ba;
 	padding-bottom:  20px;
 	font-weight:bold;
 }
@@ -48,7 +51,7 @@ t4 {
 
 .t5 {
     text-align: center;
-	color: #244032;
+	color: #3574ba;
 	font-weight:bold;
 }
 
