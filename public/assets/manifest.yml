@@ -1,9 +1,9 @@
 ---
-!binary "RXJpbl9XYWxrZXIuanBn": Erin_Walker-7b5d428e9a04132c5d1aa8fb83d08a0f.jpg
-!binary "RXJpbl9XYWxrZXIwMi5qcGc=": Erin_Walker02-56b72ae464ffbfbf2e2887208589dc1c.jpg
-!binary "YWRzLmpwZw==": ads-1b9bafb14a782cf7aa742069eea6ec31.jpg
-!binary "cmFpbHMucG5n": rails-be8732dac73d845ac5b142c8fb5f9fb0.png
-!binary "YXBwbGljYXRpb24uanM=": application-760a3d77ba120eacb73e7c7444888fa8.js
-!binary "YXBwbGljYXRpb24uY3Nz": application-efde03b9330d8a3c8cb0b7963a6219c2.css
-!binary "Z2x5cGhpY29ucy1oYWxmbGluZ3Mtd2hpdGUucG5n": glyphicons-halflings-white-13553a5bf21ae3cc374006592488ec64.png
-!binary "Z2x5cGhpY29ucy1oYWxmbGluZ3MucG5n": glyphicons-halflings-f6675c325532ec11a984d58e172b8e2a.png
+Erin_Walker.jpg: Erin_Walker-7b5d428e9a04132c5d1aa8fb83d08a0f.jpg
+Erin_Walker02.jpg: Erin_Walker02-56b72ae464ffbfbf2e2887208589dc1c.jpg
+ads.jpg: ads-1b9bafb14a782cf7aa742069eea6ec31.jpg
+rails.png: rails-be8732dac73d845ac5b142c8fb5f9fb0.png
+application.js: application-f8ca698e63b86d217c88772a65d2d20e.js
+application.css: application-37753a3241fad922ea1b4f84a856f8cd.css
+glyphicons-halflings-white.png: glyphicons-halflings-white-13553a5bf21ae3cc374006592488ec64.png
+glyphicons-halflings.png: glyphicons-halflings-f6675c325532ec11a984d58e172b8e2a.png
